@@ -1,9 +1,5 @@
-# Uses for Protected:
-# => comparison with wallet class
-
-# Make secret santa program
-# secret is gift giving system with a number of people
-# that are each assigned to another person to give a gift
+# Secret Santa program
+Secret Santa is gift giving system with a number of people that are each assigned to another person to give a gift.
 
 # Project Outline
  
@@ -16,8 +12,8 @@
 + gift history
 + wish lists
 
-# What is the user intferface?
- + enter you name => your gift reciever
+# What is the user interface?
+ + `enter you name => your gift reciever`
  + read in family list from csv?
 
 ```
@@ -28,7 +24,7 @@ Enter name: Devin
 => You are Jason's secret santa
 ```
 
-#Potential code outline:
+# Potential code outline:
 
 ```ruby
 module Displayable; end
